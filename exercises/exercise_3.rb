@@ -8,7 +8,6 @@ def adultOrNot(ages)
   end
 end
 
-
 ages = [5, 11, 8, 90,42,56]
 
 adultOrNot(ages)
